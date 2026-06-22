@@ -1,0 +1,5 @@
+python-telegram-bot
+alpaca-trade-api
+pandas
+numpy
+pyyaml
